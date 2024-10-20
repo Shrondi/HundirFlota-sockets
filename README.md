@@ -10,7 +10,7 @@
 
 ## Descripción
 
-Esta aplicación de terminal implementa el clásico juego "Hundir la Flota" utilizando un modelo cliente-servidor basado en TCP/IP (sockets). Los jugadores pueden competir entre sí a través de la red.
+Esta aplicación de terminal implementa el clásico juego "Hundir la Flota" utilizando un modelo cliente-servidor basado en TCP/IP (sockets).
 
 ---
 
